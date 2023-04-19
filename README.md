@@ -1,2 +1,4 @@
 # UDP-TCP-Voice-Over
-TCP and UDP
+
+It was created using the QT creator.
+
